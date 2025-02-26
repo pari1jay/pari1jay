@@ -1,4 +1,4 @@
-# Hi, I'm Parimala Anjanappa! 👋
+# Hi, I'm Pari! 👋
 
 ### Data Engineer | Systems Analyst | Cloud Enthusiast
 🔗 [Portfolio](https://rimapala.my.canva.site/) | 🔗 [LinkedIn](https://www.linkedin.com/in/parimala-anja/) 
