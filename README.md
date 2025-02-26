@@ -1,15 +1,14 @@
 # Hi, I'm Parimala Anjanappa! 👋
 
 ### Data Engineer | Systems Analyst | Cloud Enthusiast
-📍 **Indianapolis, IN** | 📧 **parimala.js27@gmail.com** | 📞 **(317)-515-3608**  
-🔗 [Portfolio](https://rimapala.my.canva.site/) | 🔗 [LinkedIn](#) | 🔗 [Resume](#)
+🔗 [Portfolio](https://rimapala.my.canva.site/) | 🔗 [LinkedIn](https://www.linkedin.com/in/parimala-anja/) 
 
 ---
 
 ## About Me
-I'm a results-driven professional with **5+ years of experience** in **data engineering, system integration, and cloud-based solutions**. I specialize in designing and implementing scalable data pipelines, optimizing ETL processes, and leveraging cloud platforms to deliver data-driven insights. I'm passionate about solving complex business problems through innovative technical solutions and thrive in collaborative, cross-functional environments.
+I'm a **Data Analyst** with experience in data engineering, system integration, and cloud-based solutions. I specialize in designing and implementing scalable data pipelines, optimizing ETL processes, and leveraging cloud platforms to deliver data-driven insights. I have a **Master of Science degree in Applied Data Science** from **Indiana University**, and I am passionate about data analytics, machine learning, and cloud computing. I'm actively seeking opportunities to contribute to impactful projects as a **Data Analyst** or **Data Engineer**.  
 
-Currently pursuing a **Master of Science in Applied Data Science** at **Indiana University**, I'm honing my skills in data analytics, machine learning, and cloud computing. I'm actively seeking opportunities to contribute to impactful projects as a **Systems Analyst** or **Data Engineer**.
+When I'm not working with data, I love learning new technologies, spending time with animals, and sneaking in a chapter or two of a fictional novel during breaks.
 
 ---
 
@@ -20,7 +19,7 @@ Currently pursuing a **Master of Science in Applied Data Science** at **Indiana 
 - **Big Data Tools**: Apache Spark, Hadoop, Hive, Kafka, Airflow  
 - **ETL Tools**: Talend, SSIS, Apache NiFi  
 - **Databases**: PostgreSQL, MySQL, MongoDB, Snowflake, MS Access  
-- **Data Visualization**: Tableau, Power BI, Plotly  
+- **Data Visualization**: Tableau, Power BI, Plotly, Excel  
 
 ### Cloud Platforms
 - **AWS**: S3, Redshift, Lambda, EMR  
@@ -32,11 +31,11 @@ Currently pursuing a **Master of Science in Applied Data Science** at **Indiana 
 - **Methodologies**: Agile, Scrum, Waterfall  
 
 ### Certifications
+- Career Essentials in Data Analysis by Microsoft  
 - Microsoft Azure Data Fundamentals  
 - Data Analytics with Microsoft Fabric  
 - HackerRank SQL (Intermediate)  
 - Atlassian Agile Project Management Professional  
-- Databricks SQL, MS Fabric  
 
 ---
 
@@ -91,7 +90,7 @@ Currently pursuing a **Master of Science in Applied Data Science** at **Indiana 
 ## Let's Connect! 🌐
 I'm always open to collaborating on interesting projects or discussing new opportunities. Feel free to reach out!  
 - 📧 **Email**: parimala.js27@gmail.com  
-- 🔗 **LinkedIn**: [Your LinkedIn Profile](#)  
-- 🔗 **Portfolio**: [https://rimapala.my.canva.site/](https://rimapala.my.canva.site/)  
+- 🔗 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/parimala-anja/)  
+- 🔗 **Portfolio**: [Portfolio](https://rimapala.my.canva.site/)  
 
 ---
