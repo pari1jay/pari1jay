@@ -44,17 +44,17 @@ When I'm not working with data, I love learning new technologies, spending time 
 ### 1. Consumer Complaints Prediction
 - **Tools**: Python, NLP, Data Visualization  
 - **Description**: Applied NLP techniques to analyze customer feedback and classify sentiment as positive, negative, or neutral. Achieved **79% accuracy** using machine learning models (Naive Bayes, Decision Tree, KNN).  
-- **GitHub**: [Link](#)  
+
 
 ### 2. Real Estate Sales Prediction Web Application
 - **Tools**: Python, Machine Learning, Streamlit  
 - **Description**: Developed a web app to predict real estate sales using Linear Regression, Random Forest, and Gradient Boosting. Enabled city-specific and overall sales predictions with user input.  
-- **GitHub**: [Link](#)  
+ 
 
 ### 3. ETL and Data Pipelines with Shell, Airflow and Kafka
 - **Tools**: Shell, Airflow and Kafka
 - **Description**: Designed and implemented ETL pipelines to integrate data from multiple sources into a centralized data warehouse, improving data quality by **25%**.  
-- **[Coursera]**: (https://www.coursera.org/learn/etl-and-data-pipelines-shell-airflow-kafka/home/)
+- **Coursera**: [Link](https://www.coursera.org/learn/etl-and-data-pipelines-shell-airflow-kafka/home/)
 
 ### 4. Cloud Migration for Data Systems
 - **Tools**: AWS (S3, Redshift, Lambda), GCP (BigQuery)  
