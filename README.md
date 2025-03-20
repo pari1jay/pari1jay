@@ -56,10 +56,6 @@ When I'm not working with data, I love learning new technologies, spending time 
 - **Description**: Designed and implemented ETL pipelines to integrate data from multiple sources into a centralized data warehouse, improving data quality by **25%**.  
 - **Coursera**: [Link](https://www.coursera.org/learn/etl-and-data-pipelines-shell-airflow-kafka/home/)
 
-### 4. Cloud Migration for Data Systems
-- **Tools**: AWS (S3, Redshift, Lambda), GCP (BigQuery)  
-- **Description**: Led the migration of on-premise data systems to AWS, reducing infrastructure costs by **20%** and improving scalability.  
-- 
 
 ---
 
