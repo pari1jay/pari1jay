@@ -1,18 +1,21 @@
 # Hi, I'm Pari! 👋
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=pari1jay&color=green)
 
-### Data Engineer | Systems Analyst | Cloud Enthusiast
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+### Data Analyst
 🔗 [Portfolio](https://rimapala.my.canva.site/) | 🔗 [LinkedIn](https://www.linkedin.com/in/parimala-anja/) 
 
 ---
 
 ## About Me
-I'm a **Data Analyst** with experience in data engineering, system integration, and cloud-based solutions. I specialize in designing and implementing scalable data pipelines, optimizing ETL processes, and leveraging cloud platforms to deliver data-driven insights. I have a **Master of Science degree in Applied Data Science** from **Indiana University**, and I am passionate about data analytics, machine learning, and cloud computing. I'm actively seeking opportunities to contribute to impactful projects as a **Data Analyst** or **Data Engineer**.  
-
-When I'm not working with data, I love learning new technologies, spending time with animals, and sneaking in a chapter or two of a fictional novel during breaks.
+I'm a **Data Analyst** with experience in data engineering, system integration, and cloud-based solutions. I specialize in designing and implementing scalable data pipelines, optimizing ETL processes, and leveraging cloud platforms to deliver data-driven insights. I have a **Master of Science degree in Applied Data Science** from **Indiana University**, and I am passionate about data analytics, AI and machine learning. I'm actively seeking opportunities to contribute to impactful projects as a **Data Analyst** or **Data Engineer**.  
 
 ---
 
 ## Technical Skills 💻
+android aws azure bash c css3 docker git html5 java jenkins kafka kibana kubernetes linux mssql mysql nginx nodejs opencv pandas photoshop postman python pytorch rabbitMQ scikit_learn seaborn tensorflow
 
 ### Data Analysis & Engineering
 - **Languages**: Python, R, SQL, Java, C  
@@ -87,6 +90,11 @@ When I'm not working with data, I love learning new technologies, spending time 
 I'm always open to collaborating on interesting projects or discussing new opportunities. Feel free to reach out!  
 - 📧 **Email**: parimala.js27@gmail.com  
 - 🔗 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/parimala-anja/)  
-- 🔗 **Portfolio**: [Portfolio](https://rimapala.my.canva.site/)  
+- 🔗 **Portfolio**: [Portfolio](https://rimapala.my.canva.site/)
+- 🔗 **Hackerrank**: [Hackerrank](https://www.hackerrank.com/profile/parimala_js27)
 
 ---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pari1jay&show_icons=true&theme=radical)
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=pari1jay&theme=onedark)
