@@ -15,19 +15,11 @@ I'm a **Data Analyst** with experience in data engineering, system integration, 
 ---
 
 ## Technical Skills 💻
-android aws azure bash c css3 docker git html5 java jenkins kafka kibana kubernetes linux mssql mysql nginx nodejs opencv pandas photoshop postman python pytorch rabbitMQ scikit_learn seaborn tensorflow
 
 ### Data Analysis & Engineering
 - **Languages**: Python, R, SQL, Java, C  
-- **Big Data Tools**: Apache Spark, Hadoop, Hive, Kafka, Airflow  
-- **ETL Tools**: Talend, SSIS, Apache NiFi  
 - **Databases**: PostgreSQL, MySQL, MongoDB, Snowflake, MS Access  
 - **Data Visualization**: Tableau, Power BI, Plotly, Excel  
-
-### Cloud Platforms
-- **AWS**: S3, Redshift, Lambda, EMR  
-- **GCP**: BigQuery, Dataflow  
-- **Microsoft Azure**: Data Factory, Synapse Analytics  
 
 ### Project Management & Collaboration
 - **Tools**: Jira, Confluence, Lucidchart, MS Project  
@@ -37,7 +29,7 @@ android aws azure bash c css3 docker git html5 java jenkins kafka kibana kuberne
 - Career Essentials in Data Analysis by Microsoft  
 - Microsoft Azure Data Fundamentals  
 - Data Analytics with Microsoft Fabric  
-- HackerRank SQL (Intermediate)  
+- HackerRank SQL, R (Intermediate)  
 - Atlassian Agile Project Management Professional  
 
 ---
