@@ -59,7 +59,9 @@ android aws azure bash c css3 docker git html5 java jenkins kafka kibana kuberne
 - **Description**: Designed and implemented ETL pipelines to integrate data from multiple sources into a centralized data warehouse, improving data quality by **25%**.  
 - **Coursera**: [Link](https://www.coursera.org/learn/etl-and-data-pipelines-shell-airflow-kafka/home/)
 
-
+### 4.MULTI-CLASS GENRE CLASSIFICATION  using R
+Automatic genre classification has long captivated researchers in Music Information Retrieval (MIR), seeking techniques to unravel the musical diversity. 
+- audio feature extraction and music genre classification by utilizing Spotify's rich array of audio features and a diverse dataset.
 ---
 
 ## Experience 💼
