@@ -1,9 +1,6 @@
 # Hi, I'm Pari! 👋
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=pari1jay&color=green)
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
 ### Data Analyst
 🔗 [Portfolio](https://rimapala.my.canva.site/) | 🔗 [LinkedIn](https://www.linkedin.com/in/parimala-anja/) 
 
@@ -101,6 +98,7 @@ I'm open to collaborating on interesting projects or discussing new opportunitie
 - 🔗 **Portfolio**: [Portfolio](https://rimapala.my.canva.site/)
 - 🔗 **Hackerrank**: [Hackerrank](https://www.hackerrank.com/profile/parimala_js27)
 
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
 
 
