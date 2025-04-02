@@ -86,11 +86,11 @@ objectives.
 ---
 
 ## Education 🎓
-- **Master of Science in Applied Data Science** | Indiana University | Jan 2023 – May 2024  
+- **Master of Science in Applied Data Science** | Indiana University Indianapolis | Jan 2023 – May 2024  
   - Coursework: Data Analytics using Python and R, Data Visualization, Deep Learning, Cloud Computing, DBMS, Statistics  
   - **Dean’s Scholarship Recipient**  
 
-- **Bachelor of Engineering in Aeronautical Engineering** | Mangalore Institute of Technology and Engineering, VTU | Aug 2012 – Aug 2016  
+- **Bachelor of Engineering** | Mangalore Institute of Technology and Engineering, VTU, India
 
 ---
 
