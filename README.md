@@ -73,16 +73,10 @@ objectives.
 
 ## Experience 💼
 
-### Data Engineer | Netcube Technologies | Bangalore, India | Jan 2019 – Feb 2022  
-- Led data analysis and visualization projects for small-scale businesses, managing **100+ product datasets** to deliver actionable insights.  
-- Designed and implemented ETL processes using **Talend** and **SSIS**, reducing integration time by **30%**.  
-- Optimized SQL queries and database performance, reducing query execution time by **25%**.  
-- Automated testing and deployment processes using **CI/CD pipelines** with Selenium and Python.  
-
+### Data Engineer/Data Analyst | Netcube Technologies | Bangalore, India | Jan 2019 – Feb 2022  
+ - Tools: SQL, GCP,  Apache Airflow, GitHub, Restful APIs, Flask, ETL/ELT , SQL, NoSQL, Data warehouses
 ### Associate Software Engineer | Tech Mahindra | Bangalore, India | Aug 2016 – Oct 2018  
-- Transitioned **5+ releases** from manual to automated processes, reducing manual testing time by **20 hours per week**.  
-- Led end-to-end functionality and automation testing for a sub-product of British Technologies project.  
-- Won the team’s **Bravo Award** for attention to detail and resolving critical issues.  
+ - Tools: Oracle DB, HP ALM, Python, Automation testing scripts, Data warehouses
 
 ---
 
