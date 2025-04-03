@@ -40,11 +40,15 @@ I'm actively seeking opportunities to work on impactful projects as a **Data Ana
 - Filter Compounds: Focus on CA/CM for active candidates.
 - Calculate Selectivity Index (SI): SI = IC50/EC50 to identify compounds with high efficacy and low toxicity.
   
+- Data preprocessing :
+  - Manage duplicate entries,
+  - Mismatched screening conclusions,
+  - flag interpretation sign to values and
+  - Handle missing data.
+    
 - ML model: performing random splitting (80% train, 20% test). 
-- Extracted 1D/2D/3D molecular descriptors (e.g., logP, Morgan Fingerprints, MORSE) from graph-structured molecules, 
-training base models and stacking them with cross-validation for enhanced predictions. 
-- Implemented a Graph Convolutional Network to learn neural fingerprints from molecular structures, and a CNN 
-(InceptionV3 backbone) on SMILES strings for representation learning, optimizing drug efficacy classification.  
+- Extracted molecular descriptors (e.g., logP, Morgan Fingerprints, MORSE) from data, 
+- training base models, check with test data/.
 - Evaluated models using accuracy, F1-score, and Cohen’s kappa, aligning predictive insights with clinical research 
 objectives. 
 
