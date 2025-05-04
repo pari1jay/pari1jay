@@ -17,7 +17,7 @@ I'm actively seeking opportunities to work on impactful projects as a **Data Ana
 ### Data Analysis & Engineering
 - **Languages**: Python, R, SQL, Java, C  
 - **Databases**: PostgreSQL, MySQL, MongoDB, Snowflake, MS Access  
-- **Data Visualization**: Tableau, Power BI, Plotly, Excel  
+- **Data Visualization**: Tableau, Power BI, Plotly, Excel, Qlik 
 
 ### Project Management & Collaboration
 - **Tools**: Jira, Confluence, Lucidchart, MS Project  , HP ALM
@@ -28,7 +28,8 @@ I'm actively seeking opportunities to work on impactful projects as a **Data Ana
 - Microsoft Azure Data Fundamentals  
 - Data Analytics with Microsoft Fabric  
 - HackerRank SQL, R (Intermediate)  
-- Atlassian Agile Project Management Professional  
+- Atlassian Agile Project Management Professional
+- Power BI
 
 ---
 
