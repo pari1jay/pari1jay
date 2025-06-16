@@ -7,90 +7,92 @@
 ---
 
 ## About Me
-I'm a **Data Analyst** with experience in data engineering, system integration, and cloud-based solutions. I have a **Master of Science degree in Applied Data Science** from **Indiana University**, and I am passionate about data analytics, AI and machine learning. 
-I'm actively seeking opportunities to work on impactful projects as a **Data Analyst** or **Data Engineer**.  
+I'm an **IT professional** with experience in Data engineering, Data analytics, Forecating, system integration, and cloud-based solutions. I have a **Master of Science degree in Applied Data Science** from **Indiana University**, and I am passionate about data analytics, AI and machine learning. 
+I'm actively seeking opportunities to work on impactful projects as a **Data Analyst**, **Data Engineer**, **AI/ ML roles**.  
 
 ---
 
 ## Technical Skills 💻
 
 ### Data Analysis & Engineering
-- **Languages**: Python, R, SQL, Java, C  
-- **Databases**: PostgreSQL, MySQL, MongoDB, Snowflake, MS Access  
+- **Languages**: SQL, Python, R, Java, C, SAS, MATLAB, HTML, CSS
+- **Databases**: SQL, NoSQL, IBM DB, Oracle DB, MS access, Redis, Dynamo DB, Mongo DB, Spark  
 - **Data Visualization**: Tableau, Power BI, Plotly, Excel, Qlik 
 
 ### Project Management & Collaboration
-- **Tools**: Jira, Confluence, Lucidchart, MS Project  , HP ALM
+- **Tools**:Jira, Confluence, VS Code, Postman, Linux (Basics), IBM Maximo, SAP Cloud ERP, GitHub Actions
 - **Methodologies**: Agile, Scrum, Waterfall  
 
 ### Certifications
 - Career Essentials in Data Analysis by Microsoft  
-- Microsoft Azure Data Fundamentals  
-- Data Analytics with Microsoft Fabric  
-- HackerRank SQL, R (Intermediate)  
+- Microsoft Azure Data Fundamentals
+- Coursera IBM ETL and Data Pipelines with Shell, Airflow and Kafka
 - Atlassian Agile Project Management Professional
-- Power BI
+- Power BI for Data Analysts by Microsoft Press
+- The Data Science of Healthcare Medicine and Public Health
+- Access Essential Training Office 365Microsoft
+- Data Analytics with Microsoft Fabric
+- AWS cloud 101 from AWS
+- HackerRank SQL, R (Intermediate)  
+- Azure AI services _ Microsoft Learn
+- Azure Spark Databricks Essential Training
 
 ---
 
 ## Projects 🚀
 
-### 1. Efficacy Prediction Model 
-- Check Efficacy using a pre-processed dataset (CA, CM, CI classes) from [Moleculenet.ai](https://wiki.nci.nih.gov/spaces/NCIDTPdata/pages/158204006/AIDS+Antiviral+Screen+Data)
-- Merge Data: Link NSC across files to combine screening results, EC50/IC50, and structures.
-- Filter Compounds: Focus on CA/CM for active candidates.
-- Calculate Selectivity Index (SI): SI = IC50/EC50 to identify compounds with high efficacy and low toxicity.
-  
-- Data preprocessing :
-  - Manage duplicate entries,
-  - Mismatched screening conclusions,
-  - flag interpretation sign to values and
-  - Handle missing data.
-    
-- ML model: performing random splitting (80% train, 20% test). 
-- Extracted molecular descriptors (e.g., logP, Morgan Fingerprints, MORSE) from data, 
-- training base models, check with test data/.
-- Evaluated models using accuracy, F1-score, and Cohen’s kappa, aligning predictive insights with clinical research 
-objectives. 
+### 1. Drug Efficacy Prediction Model 
+- **Tools**: R, Spotify API, Machine Learning
+- **Description**: Classified songs into genres using Spotify audio features and ML models (Decision Tree, Random Forest, XGBoost). Achieved 70% accuracy overall and 78.5% for EDM using Random Forest/XGBoost. Identified "acousticness" and "energy" as key features. Proposed ensemble and transfer learning for future enhancement.
 
 ### 2. MULTI-CLASS GENRE CLASSIFICATION  using R [Link](https://github.com/pari1jay/Spotify-classification-R)
-- Automatic genre classification has long captivated researchers in Music Information Retrieval (MIR), seeking techniques to unravel the musical diversity. 
-- audio feature extraction and music genre classification by utilizing Spotify's rich array of audio features and a diverse dataset.
-- Few other projects exploring concepts in R [Link](https://rpubs.com/Pari__)
-
-
-### 3. Consumer Complaints Prediction
 - **Tools**: Python, NLP, Data Visualization  
-- **Description**: Applied NLP techniques to analyze customer feedback and classify sentiment as positive, negative, or neutral. Achieved **79% accuracy** using machine learning models (Naive Bayes, Decision Tree, KNN).  
+- **Description**: Applied NLP techniques to analyze customer feedback and classify sentiment as positive, negative, or neutral. Achieved **79% accuracy** using machine learning models (Naive Bayes, Decision Tree, KNN)
+
+### 3. Consumer Sentiment Analysis
+- **Tools**: Python, NLP, scikit-learn, NLTK
+- **Description**: Built sentiment classification models (Naive Bayes, Decision Tree, KNN) on customer feedback with accuracies of 78.66%–79.83%. Preprocessed text data using CountVectorizer, label encoding, and NLTK techniques. Created word clouds, sentiment distribution plots, and confusion matrices to visualize insights. 
 
 
 ### 4. Real Estate Sales Prediction Web Application
 - **Tools**: Python, Machine Learning, Streamlit  
-- **Description**: Developed a web app to predict real estate sales using Linear Regression, Random Forest, and Gradient Boosting. Enabled city-specific and overall sales predictions with user input.  
+- **Description**: Developed a web app using the Texas housing dataset (txhousing) to forecast sales trends. Enabled user-driven predictions for city-specific and global trends. Integrated EDA, model selection, and real-time output using a Streamlit-based UI.
  
 
-### 5. ETL and Data Pipelines with Shell, Airflow and Kafka
+### 5. ETL and Data Pipelines with Shell, Airflow and Kafka | [cert](https://www.coursera.org/learn/etl-and-data-pipelines-shell-airflow-kafka/home/)
 - **Tools**: Shell, Airflow and Kafka
-- **Description**: Designed and implemented ETL pipelines to integrate data from multiple sources into a centralized data warehouse, improving data quality by **25%**.  
-- **Coursera**: [Link](https://www.coursera.org/learn/etl-and-data-pipelines-shell-airflow-kafka/home/)
+- **Description**: Extracted and integrated data from SQL queries, APIs, and web scraping using both ETL and ELT approaches. Designed scalable pipelines to feed a centralized data warehouse, improving data accuracy by 25%. Completed hands-on labs using Kafka and Airflow.
+
+### 6. Walmart Sales Forecasting
+- **Tools**: Python, scikit-learn, Deep Learning
+- **Description**: Predicted weekly sales for 45 Walmart stores using store-level sales data, holiday indicators, and economic factors. Performed data cleaning, feature engineering, and model tuning using Gradient Boosting, Decision Trees, and Deep Neural Networks, improving forecasting for inventory and promotion planning.
+
+### 7. Crop Row Detection Using U-Net
+- **Tools**: TensorFlow, Deep Learning, Image Segmentation
+- **Description**: Designed a U-Net based segmentation model to detect crop rows from aerial field images. Optimized performance using IoU (Intersection over Union) and improved image preprocessing and annotation strategies.
+
+### 8. Midwest Demographic & Socioeconomic Analysis
+- **Tools**:  R, Data Visualization, R shiny, Statistics
+- **Description**: Explored county-level Midwest U.S. census data to identify patterns in income, education, and population distribution. Presented findings through statistical summaries and visualizations to uncover regional disparities.
+
 
 ---
 
 ## Experience 💼
-
+### Data Assistant | Indiana University | Indianapolis | Apr 2023 – Jun 2025  
+ - Tools: SQL, DBMS,  DLSG softwares, Freeflow, Metadata, Batch Processing, ETL, Data warehouses, Delta lakehouse, Schema design.
 ### Data Engineer/Data Analyst | Netcube Technologies | Bangalore, India | Jan 2019 – Feb 2022  
- - Tools: SQL, GCP,  Apache Airflow, GitHub, Restful APIs, Flask, ETL/ELT , SQL, NoSQL, Data warehouses
+ - Tools: SQL, Azure,  Apache Airflow, GitHub, Restful APIs, Flask, ETL/ELT, CI/CD pipelines, SQL, NoSQL, Data warehouses, Delta lakehouse, SAP ERP, Tableau, Power BI.
 ### Associate Software Engineer | Tech Mahindra | Bangalore, India | Aug 2016 – Oct 2018  
- - Tools: Oracle DB, HP ALM, Python, Automation testing scripts, Data warehouses
+ - Tools: Oracle DB, HP ALM, Python, Automation testing scripts, Data warehouses, Litmus Magix, Selenium.
 
 ---
 
 ## Education 🎓
-- **Master of Science in Applied Data Science** | Indiana University Indianapolis | Jan 2023 – May 2024  
+- **Master of Science in Applied Data Science** | Indiana University Indianapolis | Jan 2023 – May 2024  | Dean’s Scholarship Recipient
   - Coursework: Data Analytics using Python and R, Data Visualization, Deep Learning, Cloud Computing, DBMS, Statistics  
-  - **Dean’s Scholarship Recipient**  
 
-- **Bachelor of Engineering** | Mangalore Institute of Technology and Engineering, VTU, India
+- **Bachelor of Engineering** | Mechanical, Aeronautics | Mangalore Institute of Technology and Engineering, VTU, India
 
 ---
 
@@ -100,11 +102,11 @@ I'm open to collaborating on interesting projects or discussing new opportunitie
 - 🔗 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/parimala-anja/)  
 - 🔗 **Portfolio**: [Portfolio](https://rimapala.my.canva.site/)
 - 🔗 **Hackerrank**: [Hackerrank](https://www.hackerrank.com/profile/parimala_js27)
+- 🔗 **Github**: [Github](https://www.github.com/pari1jay)
 
 ---
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=pari1jay&color=green)
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
 
 
