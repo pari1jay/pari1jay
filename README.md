@@ -24,18 +24,19 @@ I'm actively seeking opportunities to work on impactful projects as a **Data Ana
 - **Methodologies**: Agile, Scrum, Waterfall  
 
 ### Certifications
-- Career Essentials in Data Analysis by Microsoft  
+- [Career Essentials in Data Analysis by Microsoft](https://www.linkedin.com/learning/certificates/9efd045792a5fd5167c97e00face6adb3eecdd0478ef787cff9bc68e7e131f44?trk=share_certificate)  
 - Microsoft Azure Data Fundamentals
-- Coursera IBM ETL and Data Pipelines with Shell, Airflow and Kafka
-- Atlassian Agile Project Management Professional
-- Power BI for Data Analysts by Microsoft Press
+- [Coursera IBM ETL and Data Pipelines with Shell, Airflow and Kafka](https://www.coursera.org/account/accomplishments/verify/FQC37YVWZ94R)
+- [Atlassian Agile Project Management Professional](https://www.linkedin.com/learning/certificates/943db5ace3c1948d6eec8d740e6328e93fb1dcc0aa647292eecc4f8c70cab98c?trk=share_certificate)
+- [Power BI for Data Analysts by Microsoft Press](https://www.linkedin.com/learning/certificates/eb732ae4fde43c60a0ac2133602fcb04dd622da8a0bad2f77dfcf9fc805f2ff0?trk=share_certificate)
+- CSCMP Supply Chain Foundations: Inventory Management Professional Certificate
 - The Data Science of Healthcare Medicine and Public Health
 - Access Essential Training Office 365Microsoft
 - Data Analytics with Microsoft Fabric
-- AWS cloud 101 from AWS
-- HackerRank SQL, R (Intermediate)  
+- [AWS cloud 101 from AWS](https://www.credly.com/earner/earned/share/207d1a4c-50f5-4eab-88fd-91d440364d9f)
+- [HackerRank SQL, R](https://www.hackerrank.com/profile/parimala_js27)) 
 - Azure AI services _ Microsoft Learn
-- Azure Spark Databricks Essential Training
+- [Azure Spark Databricks Essential Training](https://www.linkedin.com/learning/certificates/8969302ae81941f2e5348374b207717928ccc2dae97f2a5fbb3ac88a3f1419f0?trk=share_certificate)
 
 ---
 
@@ -59,7 +60,7 @@ I'm actively seeking opportunities to work on impactful projects as a **Data Ana
 - **Description**: Developed a web app using the Texas housing dataset (txhousing) to forecast sales trends. Enabled user-driven predictions for city-specific and global trends. Integrated EDA, model selection, and real-time output using a Streamlit-based UI.
  
 
-### 5. ETL and Data Pipelines with Shell, Airflow and Kafka | [cert](https://www.coursera.org/learn/etl-and-data-pipelines-shell-airflow-kafka/home/)
+### 5. ETL and Data Pipelines with Shell, Airflow and Kafka | [cert](https://www.coursera.org/account/accomplishments/verify/FQC37YVWZ94R)
 - **Tools**: Shell, Airflow and Kafka
 - **Description**: Extracted and integrated data from SQL queries, APIs, and web scraping using both ETL and ELT approaches. Designed scalable pipelines to feed a centralized data warehouse, improving data accuracy by 25%. Completed hands-on labs using Kafka and Airflow.
 
