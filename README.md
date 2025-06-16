@@ -102,7 +102,6 @@ I'm open to collaborating on interesting projects or discussing new opportunitie
 - 📧 **Email**: parimala.js27@gmail.com  
 - 🔗 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/parimala-anja/)  
 - 🔗 **Portfolio**: [Portfolio](https://rimapala.my.canva.site/)
-- 🔗 **Hackerrank**: [Hackerrank](https://www.hackerrank.com/profile/parimala_js27)
 - 🔗 **Github**: [Github](https://www.github.com/pari1jay)
 
 ---
