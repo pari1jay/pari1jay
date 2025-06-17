@@ -27,7 +27,7 @@ I'm actively seeking opportunities to work on impactful projects as a **Data Ana
 - [Career Essentials in Data Analysis by Microsoft](https://www.linkedin.com/learning/certificates/9efd045792a5fd5167c97e00face6adb3eecdd0478ef787cff9bc68e7e131f44?trk=share_certificate)  
 - Microsoft Azure Data Fundamentals
 - [Coursera IBM ETL and Data Pipelines with Shell, Airflow and Kafka](https://www.coursera.org/account/accomplishments/verify/FQC37YVWZ94R)
-- [Atlassian Agile Project Management Professional](https://www.linkedin.com/learning/certificates/943db5ace3c1948d6eec8d740e6328e93fb1dcc0aa647292eecc4f8c70cab98c?trk=share_certificate)
+- [Atlassian Agile Project Management Professional](https://www.linkedin.com/learning/certificates/1fefaab35c77ceed7782757a9693a7fd55cc9186bffda160fbcb3ec6bbc0d4ba?)
 - [Power BI for Data Analysts by Microsoft Press](https://www.linkedin.com/learning/certificates/eb732ae4fde43c60a0ac2133602fcb04dd622da8a0bad2f77dfcf9fc805f2ff0?trk=share_certificate)
 - CSCMP Supply Chain Foundations: Inventory Management Professional Certificate
 - The Data Science of Healthcare Medicine and Public Health
