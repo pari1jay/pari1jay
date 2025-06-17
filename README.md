@@ -33,7 +33,7 @@ I'm actively seeking opportunities to work on impactful projects as a **Data Ana
 - The Data Science of Healthcare Medicine and Public Health
 - Access Essential Training Office 365Microsoft
 - Data Analytics with Microsoft Fabric
-- [AWS cloud 101 from AWS](https://www.credly.com/earner/earned/share/207d1a4c-50f5-4eab-88fd-91d440364d9f)
+- [AWS cloud 101 from AWS](https://www.credly.com/badges/207d1a4c-50f5-4eab-88fd-91d440364d9f/public_url)
 - [HackerRank SQL, R](https://www.hackerrank.com/profile/parimala_js27) 
 - Azure AI services _ Microsoft Learn
 - [Azure Spark Databricks Essential Training](https://www.linkedin.com/learning/certificates/8969302ae81941f2e5348374b207717928ccc2dae97f2a5fbb3ac88a3f1419f0?trk=share_certificate)
