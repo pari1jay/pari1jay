@@ -42,37 +42,37 @@ I'm actively seeking opportunities to work on impactful projects as a **Data Ana
 
 ## Projects 🚀
 
-### 1. Drug Efficacy Prediction Model 
+### 1. [Drug Efficacy Prediction Model](https://github.com/pari1jay/2_Drug-Efficacy-Prediction-Model) 
 - **Tools**: R, Spotify API, Machine Learning
 - **Description**: Classified songs into genres using Spotify audio features and ML models (Decision Tree, Random Forest, XGBoost). Achieved 70% accuracy overall and 78.5% for EDM using Random Forest/XGBoost. Identified "acousticness" and "energy" as key features. Proposed ensemble and transfer learning for future enhancement.
 
-### 2. MULTI-CLASS GENRE CLASSIFICATION  using R [Link](https://github.com/pari1jay/Spotify-classification-R)
+### 2. [MULTI-CLASS GENRE CLASSIFICATION  using R](https://github.com/pari1jay/Spotify-classification-R)
 - **Tools**: Python, NLP, Data Visualization  
 - **Description**: Applied NLP techniques to analyze customer feedback and classify sentiment as positive, negative, or neutral. Achieved **79% accuracy** using machine learning models (Naive Bayes, Decision Tree, KNN)
 
-### 3. Consumer Sentiment Analysis
+### 3. [Consumer Sentiment Analysis](https://github.com/pari1jay/6_Customer-sentiment-Analysis)
 - **Tools**: Python, NLP, scikit-learn, NLTK
 - **Description**: Built sentiment classification models (Naive Bayes, Decision Tree, KNN) on customer feedback with accuracies of 78.66%–79.83%. Preprocessed text data using CountVectorizer, label encoding, and NLTK techniques. Created word clouds, sentiment distribution plots, and confusion matrices to visualize insights. 
 
 
-### 4. Real Estate Sales Prediction Web Application
+### 4. [Real Estate Sales Prediction Web Application](https://github.com/pari1jay/4_Sales-Prediction-using-ML)
 - **Tools**: Python, Machine Learning, Streamlit  
 - **Description**: Developed a web app using the Texas housing dataset (txhousing) to forecast sales trends. Enabled user-driven predictions for city-specific and global trends. Integrated EDA, model selection, and real-time output using a Streamlit-based UI.
  
 
-### 5. ETL and Data Pipelines with Shell, Airflow and Kafka | [cert](https://www.coursera.org/account/accomplishments/verify/FQC37YVWZ94R)
+### 5. [ETL and Data Pipelines with Shell, Airflow and Kafka](https://www.coursera.org/account/accomplishments/verify/FQC37YVWZ94R)
 - **Tools**: Shell, Airflow and Kafka
 - **Description**: Extracted and integrated data from SQL queries, APIs, and web scraping using both ETL and ELT approaches. Designed scalable pipelines to feed a centralized data warehouse, improving data accuracy by 25%. Completed hands-on labs using Kafka and Airflow.
 
-### 6. Walmart Sales Forecasting
+### 6. [Walmart Sales Forecasting](https://github.com/pari1jay/walmart-sales-forecasting)
 - **Tools**: Python, scikit-learn, Deep Learning
 - **Description**: Predicted weekly sales for 45 Walmart stores using store-level sales data, holiday indicators, and economic factors. Performed data cleaning, feature engineering, and model tuning using Gradient Boosting, Decision Trees, and Deep Neural Networks, improving forecasting for inventory and promotion planning.
 
-### 7. Crop Row Detection Using U-Net
+### 7. [Crop Row Detection Using U-Net](https://github.com/pari1jay/1_Crop-row-detection)
 - **Tools**: TensorFlow, Deep Learning, Image Segmentation
 - **Description**: Designed a U-Net based segmentation model to detect crop rows from aerial field images. Optimized performance using IoU (Intersection over Union) and improved image preprocessing and annotation strategies.
 
-### 8. Midwest Demographic & Socioeconomic Analysis
+### 8. [Midwest Demographic & Socioeconomic Analysis](https://github.com/pari1jay/3_Midwest-dataset-project-using-R)
 - **Tools**:  R, Data Visualization, R shiny, Statistics
 - **Description**: Explored county-level Midwest U.S. census data to identify patterns in income, education, and population distribution. Presented findings through statistical summaries and visualizations to uncover regional disparities.
 
