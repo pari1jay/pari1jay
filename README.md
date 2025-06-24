@@ -43,12 +43,13 @@ I'm actively seeking opportunities to work on impactful projects as a **Data Ana
 ## Projects 🚀
 
 ### 1. [Drug Efficacy Prediction Model](https://github.com/pari1jay/2_Drug-Efficacy-Prediction-Model) 
-- **Tools**: R, Spotify API, Machine Learning
-- **Description**: Classified songs into genres using Spotify audio features and ML models (Decision Tree, Random Forest, XGBoost). Achieved 70% accuracy overall and 78.5% for EDM using Random Forest/XGBoost. Identified "acousticness" and "energy" as key features. Proposed ensemble and transfer learning for future enhancement.
+- **Tools**: Data Preparation, ML: random forest, XGboost, Scikitlearn
+- **Description**: Build a machine learning model to predict which chemical compounds can fight HIV effectively, helping researchers focus on the most promising candidates and skip compounds that likely won't work. Eg: You have 40,000 chemical compounds to test. Instead of testing all in the lab (expensive and slow!), you use AI to predict which might work.
 
-### 2. [MULTI-CLASS GENRE CLASSIFICATION  using R](https://github.com/pari1jay/Spotify-classification-R)
-- **Tools**: Python, NLP, Data Visualization  
-- **Description**: Applied NLP techniques to analyze customer feedback and classify sentiment as positive, negative, or neutral. Achieved **79% accuracy** using machine learning models (Naive Bayes, Decision Tree, KNN)
+### 2. [MULTI-CLASS GENRE CLASSIFICATION  using R for Spotify](https://github.com/pari1jay/Spotify-classification-R)
+- **Tools**: Modeling - Decision Tree, Random Forest, and XGBoost, Correlation Analysis
+- **Description**: Objective1 : is it possible to classify songs into genres with just audio features \n
+Objective2 : what can these audio features tell us about the distinctions between genre (Naive Bayes, Decision Tree, KNN)
 
 ### 3. [Consumer Sentiment Analysis](https://github.com/pari1jay/6_Customer-sentiment-Analysis)
 - **Tools**: Python, NLP, scikit-learn, NLTK
