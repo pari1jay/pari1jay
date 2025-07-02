@@ -1,44 +1,6 @@
 # [Hi, I'm Pari! 👋](https://pari1jay.github.io/parimala-anjanappa/)
 
-
-### Data Analyst | Data Engineer | Data Science | ML | AI
-
-                          
----
-
-## About Me
-I'm an **IT professional** with experience in Data engineering, Data analytics, Forecating, system integration, and cloud-based solutions. I have a **Master of Science degree in Applied Data Science** from **Indiana University**, and I am passionate about data analytics, AI and machine learning. 
-I'm actively seeking opportunities to work on impactful projects as a **Data Analyst**, **Data Engineer**, **AI/ ML roles**.  
-
----
-
-## Technical Skills 💻
-
-### Data Analysis & Engineering
-- **Languages**: SQL, Python, R, Java, C, SAS, MATLAB, HTML, CSS
-- **Databases**: SQL, NoSQL, IBM DB, Oracle DB, MS access, Redis, Dynamo DB, Mongo DB, Spark  
-- **Data Visualization**: Tableau, Power BI, Plotly, Excel, Qlik 
-
-### Project Management & Collaboration
-- **Tools**:Jira, Confluence, VS Code, Postman, Linux (Basics), IBM Maximo, SAP Cloud ERP, GitHub Actions
-- **Methodologies**: Agile, Scrum, Waterfall  
-
-### Certifications
-- [Career Essentials in Data Analysis by Microsoft](https://www.linkedin.com/learning/certificates/9efd045792a5fd5167c97e00face6adb3eecdd0478ef787cff9bc68e7e131f44?trk=share_certificate)  
-- Microsoft Azure Data Fundamentals
-- [Coursera IBM ETL and Data Pipelines with Shell, Airflow and Kafka](https://www.coursera.org/account/accomplishments/verify/FQC37YVWZ94R)
-- [Atlassian Agile Project Management Professional](https://www.linkedin.com/learning/certificates/1fefaab35c77ceed7782757a9693a7fd55cc9186bffda160fbcb3ec6bbc0d4ba?)
-- [Power BI for Data Analysts by Microsoft Press](https://www.linkedin.com/learning/certificates/eb732ae4fde43c60a0ac2133602fcb04dd622da8a0bad2f77dfcf9fc805f2ff0?trk=share_certificate)
-- CSCMP Supply Chain Foundations: Inventory Management Professional Certificate
-- The Data Science of Healthcare Medicine and Public Health
-- Access Essential Training Office 365Microsoft
-- Data Analytics with Microsoft Fabric
-- [AWS cloud 101 from AWS](https://www.credly.com/badges/207d1a4c-50f5-4eab-88fd-91d440364d9f/public_url)
-- [HackerRank SQL, R](https://www.hackerrank.com/profile/parimala_js27) 
-- Azure AI services _ Microsoft Learn
-- [Azure Spark Databricks Essential Training](https://www.linkedin.com/learning/certificates/8969302ae81941f2e5348374b207717928ccc2dae97f2a5fbb3ac88a3f1419f0?trk=share_certificate)
-
----
+### Data Science | ML | AI | Data Analyst | Data Engineer | 
 
 ## Projects 🚀
 
@@ -54,7 +16,6 @@ Objective2 : what can these audio features tell us about the distinctions betwee
 ### 3. [Consumer Sentiment Analysis](https://github.com/pari1jay/6_Customer-sentiment-Analysis)
 - **Tools**: Python, NLP, scikit-learn, NLTK
 - **Description**: Built sentiment classification models (Naive Bayes, Decision Tree, KNN) on customer feedback with accuracies of 78.66%–79.83%. Preprocessed text data using CountVectorizer, label encoding, and NLTK techniques. Created word clouds, sentiment distribution plots, and confusion matrices to visualize insights. 
-
 
 ### 4. [Real Estate Sales Prediction Web Application](https://github.com/pari1jay/4_Sales-Prediction-using-ML)
 - **Tools**: Python, Machine Learning, Streamlit  
@@ -76,7 +37,6 @@ Objective2 : what can these audio features tell us about the distinctions betwee
 ### 8. [Midwest Demographic & Socioeconomic Analysis](https://github.com/pari1jay/3_Midwest-dataset-project-using-R)
 - **Tools**:  R, Data Visualization, R shiny, Statistics
 - **Description**: Explored county-level Midwest U.S. census data to identify patterns in income, education, and population distribution. Presented findings through statistical summaries and visualizations to uncover regional disparities.
-
 
 ---
 
@@ -106,9 +66,6 @@ I'm open to collaborating on interesting projects or discussing new opportunitie
 - 🔗 **Github**: [Github](https://www.github.com/pari1jay)
 - 🔗 **Rpubs**: [link](https://rpubs.com/Pari__)
 - 🔗🔗 [Medium](https://medium.com/@parimala.anja) 
-
----
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=pari1jay&color=green)
 
 ---
 
