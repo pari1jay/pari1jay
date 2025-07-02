@@ -1,8 +1,8 @@
-# Hi, I'm Pari! 👋
+# [Hi, I'm Pari! 👋](https://pari1jay.github.io/parimala-anjanappa/)
 
 
 ### Data Analyst | Data Engineer | Data Science | ML | AI
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="parimala-anja" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/parimala-anja?trk=profile-badge">Parimala Anjanappa</a></div>
+
                           
 ---
 
