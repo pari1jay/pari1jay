@@ -41,8 +41,8 @@ Objective2 : what can these audio features tell us about the distinctions betwee
 ---
 
 ## Experience 💼
-### Data Assistant | Indiana University | Indianapolis | Apr 2023 – Jun 2025  
- - Tools: SQL, DBMS,  DLSG softwares, Freeflow, Metadata, Batch Processing, ETL, Data warehouses, Delta lakehouse, Schema design.
+### Data Assistant, Research Assistant | Indiana University | Indianapolis | Apr 2023 – Jun 2025  
+ - Tools: ML, AI, Chatbot, RAG, SQL, DBMS,  DLSG softwares, Freeflow, Metadata, Batch Processing, ETL, Data warehouses, Delta lakehouse, Schema design.
 ### Data Engineer/Data Analyst | Netcube Technologies | Bangalore, India | Jan 2019 – Feb 2022  
  - Tools: SQL, Azure,  Apache Airflow, GitHub, Restful APIs, Flask, ETL/ELT, CI/CD pipelines, SQL, NoSQL, Data warehouses, Delta lakehouse, SAP ERP, Tableau, Power BI.
 ### Associate Software Engineer | Tech Mahindra | Bangalore, India | Aug 2016 – Oct 2018  
