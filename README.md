@@ -1,7 +1,4 @@
 # [Hi, I'm Pari! 👋](https://pari1jay.github.io/parimala-anjanappa/)
-
-My 'why' is rooted in a deep passion for this field and a genuine curiosity to solve real-world problems through data and technology. I've taken both small and significant steps whether it's upskilling, working on real projects, or shifting roles to align my career with what excites me. I’m grateful for the opportunity to pursue work that challenges me intellectually and fulfills me personally, and I want to continue growing so I can make meaningful contributions, not just in my work but also in the lives impacted by it.
-
 ### Data Science | ML | AI | Data Analyst | Data Engineer | 
 
 ## Projects 🚀
