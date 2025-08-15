@@ -1,4 +1,4 @@
-# [Hi, I'm Pari! 👋](https://pari1jay.github.io/parimala-anjanappa/)
+# [Parimala Anjanappa👋](https://pari1jay.github.io/parimala-anjanappa/)
 ### Data Science | ML | AI | Data Analyst | Data Engineer | 
 
 ---
