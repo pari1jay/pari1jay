@@ -6,7 +6,7 @@
 ## Experience 💼
 ### Data Assistant, Research Assistant | Indiana University | Indianapolis | Apr 2023 – Jun 2025  
  - Tools: ML, AI, Chatbot, RAG, SQL, DBMS,  DLSG softwares, Freeflow, Metadata, Batch Processing, ETL, Data warehouses, Delta lakehouse, Schema design.
-### AI/ ML Data Engineer | Netcube Technologies | Bangalore, India | Jan 2019 – Feb 2022  
+### AI/ ML Data Engineer | Asian Paints - Netcube Technologies | Bangalore, India | Jan 2019 – Feb 2022  
  - Tools: SQL, Azure,  Apache Airflow, GitHub, Restful APIs, Flask, ETL/ELT, CI/CD pipelines, SQL, NoSQL, Data warehouses, Delta lakehouse, SAP ERP, Tableau, Power BI.
 ### Associate Software Engineer | Tech Mahindra | Bangalore, India | Aug 2016 – Oct 2018  
  - Tools: Oracle DB, HP ALM, Python, Automation testing scripts, Data warehouses, Litmus Magix, Selenium.
