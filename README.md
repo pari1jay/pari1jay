@@ -5,7 +5,7 @@
 
 ## Experience 💼
 ### Data Engineer | Opelsoft sys |USA
--ETL, ELT, AWS,SQL
+ - ETL, ELT, AWS,SQL
 ### Data Assistant, Research Assistant | Indiana University | Indianapolis 
  - Tools: ML, AI, Chatbot, RAG, SQL, DBMS,  DLSG softwares, Freeflow, Metadata, Batch Processing, ETL, Data warehouses, Delta lakehouse, Schema design.
 ### AI/ ML Data Engineer | Asian Paints - Netcube Technologies | Bangalore, India 
