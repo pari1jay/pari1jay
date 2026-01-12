@@ -27,7 +27,7 @@
 I'm open to collaborating on interesting projects or discussing new opportunities. Feel free to reach out!  
 - 📧 **Email**: parimala.js27@gmail.com  
 - 🔗 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/parimala-anja/)  
-- 🔗 **Portfolio**: [Portfolio](https://rimapala.my.canva.site/)
+- 🔗 **Portfolio**: [Portfolio](https://rimapala.my.canva.site/](https://pari1jay.github.io/parimala-anjanappa/)
 - 🔗 **Github**: [Github](https://www.github.com/pari1jay)
 - 🔗 **Rpubs**: [link](https://rpubs.com/Pari__)
 - 🔗🔗 [Medium](https://medium.com/@parimala.anja) 
