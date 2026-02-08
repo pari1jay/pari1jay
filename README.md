@@ -4,11 +4,11 @@
 ---
 
 ## Experience 💼
-### Data Engineer | Opelsoft sys |USA
- - ETL, ELT, AWS,SQL
-### Data Assistant, Research Assistant | Indiana University | Indianapolis 
+### Data Analyst | TA services |USA
+ - ETL, ELT, Power bi, Excel, SQL, Python, Data analytics
+### Data Analyst, Research Assistant | Indiana University | Indianapolis 
  - Tools: ML, AI, Chatbot, RAG, SQL, DBMS,  DLSG softwares, Freeflow, Metadata, Batch Processing, ETL, Data warehouses, Delta lakehouse, Schema design.
-### AI/ ML Data Engineer | Asian Paints - Netcube Technologies | Bangalore, India 
+### Data Engineer | Asian Paints - Netcube Technologies | Bangalore, India 
  - Tools: SQL, Azure,  Apache Airflow, GitHub, Restful APIs, Flask, ETL/ELT, CI/CD pipelines, SQL, NoSQL, Data warehouses, Delta lakehouse, SAP ERP, Tableau, Power BI.
 ### Associate Software Engineer | Tech Mahindra | Bangalore, India 
  - Tools: Oracle DB, HP ALM, Python, Automation testing scripts, Data warehouses, Litmus Magix, Selenium.
